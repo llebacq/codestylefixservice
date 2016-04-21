@@ -1,0 +1,5 @@
+./vendor
+./build
+./.idea
+composer.lock
+./tests/Fixtures/Result.php
